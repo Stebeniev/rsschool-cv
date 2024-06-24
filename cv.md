@@ -1,7 +1,7 @@
 # Dmitriy Stebeniev
 
 ##  Contact Info:
-* **Phone:** +11223344556677
+* **Phone:** +1122334455667788
 * **Address:** Ukraine, Kharkiv city
 * **E-mail:** [dm.stebenev@gmail.com](mailto:<dm.stebenev@gmail.com>)
 * **GitHub:** <https://github.com/Stebeniev>
